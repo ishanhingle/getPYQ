@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939704651480",
+    "project_id": "pyq-app-7b559",
+    "storage_bucket": "pyq-app-7b559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939704651480:android:101fabe74aac716804d1ad",
+        "android_client_info": {
+          "package_name": "com.example.getpyq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIe_RPTN4p-vw2p0Am_bNSzs3U0oRK1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
